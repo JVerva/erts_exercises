@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/simple_process_ex.dir/main.cpp.o CMakeFiles/simple_process_ex.dir/simple_process_ex.cpp.o -o simple_process_ex  -Wl,-rpath,/home/verva/systemc/install/lib /home/verva/systemc/install/lib/libsystemc.so 

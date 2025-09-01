@@ -1,0 +1,3 @@
+/home/verva/systemc/exercises_erts/simple_process_ex/build/CMakeFiles/simple_process_ex.dir
+/home/verva/systemc/exercises_erts/simple_process_ex/build/CMakeFiles/edit_cache.dir
+/home/verva/systemc/exercises_erts/simple_process_ex/build/CMakeFiles/rebuild_cache.dir
