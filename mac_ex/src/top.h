@@ -26,6 +26,9 @@ SC_MODULE(Top){
         mac->o(top_o);
 
         mon->o(top_o);
+        mon->a(top_a);
+        mon->b(top_b);
+        mon->c(top_c);
     }
 
     ~Top(){
