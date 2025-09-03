@@ -27,4 +27,10 @@ SC_MODULE(Top){
 
         mon->o(top_o);
     }
+
+    ~Top(){
+        delete stim;
+        delete mac;
+        delete mon;
+    }
 };
