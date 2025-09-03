@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mac.dir/src/main.cpp.o CMakeFiles/mac.dir/src/mac.cpp.o CMakeFiles/mac.dir/src/stimulus.cpp.o -o mac  -Wl,-rpath,/home/verva/systemc/install/lib /home/verva/systemc/install/lib/libsystemc.so 
